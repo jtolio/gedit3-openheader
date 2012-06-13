@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python
+Module=openheader
+IAge=3
+Name=Open Header/Body
+Description=Adds a menu option to open the header (.h, .hpp) or body (.c or .cpp) corresponding to the current file.
+Authors=JT Olds <hello@jtolds.com>
+Copyright=Copyright (c) 2012 JT Olds <hello@jtolds.com>
+Website=http://jtolds.com
